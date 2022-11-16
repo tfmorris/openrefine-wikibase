@@ -21,4 +21,4 @@ This is a new reconciliation interface, with the following features:
 
 MIT license.
 
-
+The main fork of this repo is now at https://gitlab.com/nfdi4culture/ta1-data-enrichment/openrefine-wikibase
